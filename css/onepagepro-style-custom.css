@@ -207,7 +207,8 @@ body.onepagepro-boxed .onepagepro-body-wrapper, .gdlr-core-page-builder .gdlr-co
 .onepagepro-page-title-wrap .onepagepro-page-title-overlay{ background-color: #2d2d2d; } 
 .onepagepro-body, .onepagepro-body span.wpcf7-not-valid-tip{ color: #7c7c7c; } 
 .onepagepro-body h1, .onepagepro-body h2, .onepagepro-body h3, .onepagepro-body h4, .onepagepro-body h5, .onepagepro-body h6{ color: #383838; }.woocommerce table.shop_attributes th, .woocommerce table.shop_table th, .single-product.woocommerce div.product .product_meta .onepagepro-head{ color: #383838; } 
-.onepagepro-body a{ color: #545454; } 
+/* .onepagepro-body a{ color: #545454; }  */
+.onepagepro-body a{ color: #7c7c7c; } 
 .onepagepro-body a:hover{ color: #333333; } 
 .onepagepro-body *{ border-color: #e2e2e2; }.gdlr-core-columnize-item .gdlr-core-columnize-item-content{ column-rule-color: #e2e2e2; -moz-column-rule-color: #e2e2e2; -webkit-column-rule-color: #e2e2e2; } 
 .onepagepro-body input, .onepagepro-body textarea{ background-color: #ffffff; } 
